@@ -1,6 +1,6 @@
 # FACIA - Facial Recognition Based Attendance Management System
 
-![FACIA Logo](![Uploading ChatGPT Image May 22, 2025, 09_28_40 PM.png…]()
+![FACIA Logo]((https://chatgpt.com/s/m_682f4a0507208191af326dbb67eed69f)
 )  <!-- Optional -->
 
 ## Overview
